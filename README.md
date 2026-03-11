@@ -33,7 +33,7 @@ Learning Outcomes :-
 
 How to Run the Project :- 
 1. Install Python (version 3.x recommended)
-2. Clone the repository
+2. Clone the repository ( https://github.com/Harshitapatil44/upGrad_First_Project )
 3. Navigate to the project folder
 4. Run any Python file
    
